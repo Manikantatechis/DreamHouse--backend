@@ -5,3 +5,4 @@ django-cors-headers
 django-filter
 djangorestframework
 gunicorn
+dj_database_url
